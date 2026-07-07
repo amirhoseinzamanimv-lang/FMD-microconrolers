@@ -1,3 +1,3 @@
 //start of pro remot code with ability of learn and ..
 //work with FMD
-//company :sepahbod
+//company :sepahbod by amirhosein zamani
